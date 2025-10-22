@@ -1,4 +1,4 @@
-# QHD Wallpapers Collection
+# Wallpy Wallpapers Collection
 
 A curated archive of high-resolution wallpapers organised by mood, art style, and subject matter. Browse hundreds of 1440p+ stills, animations, and themed sets ready for desktop or mobile use.
 
@@ -24,7 +24,7 @@ unsorted/              Temporary holding area for new additions
 ## Get Started
 1. Clone the repository (recommended for offline browsing):
    ```bash
-   git clone https://github.com/<your-account>/qhd-wallpapers.git
+   git clone https://github.com/Mustafa-tariq23/wallpy
    ```
 2. Or download the latest archive from the GitHub web UI (`Code → Download ZIP`).
 3. Point your wallpaper manager to the extracted folder, or copy favourites into your OS-specific wallpapers directory.
